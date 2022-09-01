@@ -1,0 +1,65 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "title": "PREMIUM NOTCH BLAZER",
+    "thumbnailUrl": "https://i.postimg.cc/BZLZQ76n/1.jpg",
+    "dollar": "$79.99"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "title": "PREMIUM SUIT BLAZER",
+    "thumbnailUrl": "https://i.postimg.cc/130L3wwt/2.jpg",
+    "dollar": "$199.99"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "title": "VINTAGE SWEATSHIRT",
+    "thumbnailUrl": "https://i.postimg.cc/SsR5dP52/3.jpg",
+    "dollar": "$99.99"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "title": "LONGLINE JERSEY JACKET",
+    "thumbnailUrl": "https://i.postimg.cc/K4SHZ8YB/4.jpg",
+    "dollar": "$19.99"
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "title": "TAILORED BLAZER",
+    "thumbnailUrl": "https://i.postimg.cc/ZqV2rmfz/5.jpg",
+    "dollar": "$119.99"
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "title": "OVERCOAT IN CAMEL",
+    "thumbnailUrl": "https://i.postimg.cc/FK9wdzVx/6.jpg",
+    "dollar": "$19.99"
+  },
+  {
+    "albumId": 1,
+    "id": 7,
+    "title": "JACKET WITH FRINGE",
+    "thumbnailUrl": "https://i.postimg.cc/T1WsMDTT/7.jpg",
+    "dollar": "$59.99"
+  },
+  {
+    "albumId": 1,
+    "id": 8,
+    "title": "NOTCH BLAZER IN LONGLIN",
+    "thumbnailUrl": "https://i.postimg.cc/RZxkmX3y/8.jpg",
+    "dollar": "$139.99"
+  },
+  {
+    "albumId": 1,
+    "id": 9,
+    "title": "WAISTCOAT IN NAVY",
+    "thumbnailUrl": "https://i.postimg.cc/qRFF5LVm/9.jpg",
+    "dollar": "$299.99"
+  }
+]

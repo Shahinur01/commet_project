@@ -1,0 +1,32 @@
+[
+  {
+    "albumId": 1,
+    "id": 1,
+    "thumbnailUrl": "https://i.postimg.cc/50nMf5Qf/sass.png"
+  },
+  {
+    "albumId": 1,
+    "id": 2,
+    "thumbnailUrl": "https://i.postimg.cc/zvQZgJkM/jade.png"
+  },
+  {
+    "albumId": 1,
+    "id": 3,
+    "thumbnailUrl": "https://i.postimg.cc/qqqHqt2y/haml.png"
+  },
+  {
+    "albumId": 1,
+    "id": 4,
+    "thumbnailUrl": "https://i.postimg.cc/BZ7GygGg/A.png"
+  },
+  {
+    "albumId": 1,
+    "id": 5,
+    "thumbnailUrl": "https://i.postimg.cc/7Lr49Zyr/less.png"
+  },
+  {
+    "albumId": 1,
+    "id": 6,
+    "thumbnailUrl": "https://i.postimg.cc/7Lr49Zyr/less.png"
+  }
+]
